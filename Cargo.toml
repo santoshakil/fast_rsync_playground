@@ -1,0 +1,7 @@
+[package]
+name = "fast_rsync_playground"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fast_rsync = "0"
